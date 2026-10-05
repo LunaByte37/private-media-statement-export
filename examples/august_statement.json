@@ -1,0 +1,16 @@
+{
+  "statement_id": "stmt-2026-08",
+  "creator_id": "creator-17",
+  "period_start": "2026-08-01",
+  "period_end": "2026-08-31",
+  "entries": [
+    {
+      "asset_title": "Cardiac rehab series",
+      "platform": "Stream North",
+      "service_date": "2026-08-04",
+      "amount": "125.40",
+      "currency": "USD",
+      "status": "settled"
+    }
+  ]
+}
